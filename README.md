@@ -107,7 +107,7 @@ created earlier.
 ## Set the Destination of a Repo with `git remote`
 
 To connect your local repository to the newly created GitHub repository, you
-must add a new remote to a remote name. Adding a remote involves giving `git` a "short name" and
+must add a new remote with a remote name. Adding a remote involves giving `git` a "short name" and
 a "repository path." You copied the repository path from GitHub a few steps
 above.
 
